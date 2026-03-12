@@ -1,2 +1,1 @@
-# weather-pattern-analysis
-Repository for Weather Pattern Analysis project
+# Weather Pattern Analysis - A semester project tracking severe weather across US regions
